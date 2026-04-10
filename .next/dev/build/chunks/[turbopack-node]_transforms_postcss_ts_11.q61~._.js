@@ -3,7 +3,7 @@ module.exports = [
 
 __turbopack_context__.v((parentImport) => {
     return Promise.all([
-  "chunks/0fdh_0x~gwlf._.js",
+  "chunks/0.d4_0x~gwlf._.js",
   "chunks/[root-of-the-server]__04vr_pt._.js"
 ].map((chunk) => __turbopack_context__.l(chunk))).then(() => {
         return parentImport("[turbopack-node]/transforms/postcss.ts { CONFIG => \"[project]/Documents/ADA/PROJETS/grace-adaverse-patphiletas/postcss.config.mjs [postcss] (ecmascript)\" } [postcss] (ecmascript)");
